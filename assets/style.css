@@ -65,7 +65,7 @@ a:hover { text-decoration: underline; text-underline-offset: .25em; }
 .foot { display: flex; justify-content: space-between; align-items: flex-end; gap: 24px; }
 .foot__logo { display: block; width: clamp(150px, 26vw, 262px); line-height: 0; }
 .foot__logo img { width: 100%; height: auto; display: block; }
-.foot__links { display: flex; flex-direction: column; align-items: flex-end; text-align: right; font-size: .9em; text-transform: uppercase; letter-spacing: .04em; line-height: 1.5; }
+.foot__links { display: flex; flex-direction: column; align-items: flex-end; text-align: right; font-size: .75em; text-transform: uppercase; letter-spacing: .04em; line-height: 1.5; }
 .foot__links span a + a { margin-left: .8em; }
 
 @media (min-width: 768px) { body { font-size: 12px; } }
