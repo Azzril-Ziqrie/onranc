@@ -35,7 +35,7 @@ a:hover { text-decoration: underline; text-underline-offset: .25em; }
 /* wordmark: wide tracking, optical size */
 .wordmark { margin: 0; font-weight: 400; font-size: 1em; letter-spacing: .6em; text-transform: uppercase; }
 
-.copy p { margin: 0 0 2.4em; text-align: justify; text-wrap: pretty; hyphens: manual; }
+.copy p { font-size: .85em; margin: 0 0 2.8em; text-align: justify; text-wrap: pretty; hyphens: manual; }
 .copy p:last-child { margin-bottom: 0; }
 
 /* notify row */
